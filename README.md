@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on SwiftUi-component<br><br>🌱 I’m currently learning SwiftUİ,React,Next<br><br>🤝 I’m looking for help with sagemaker-inference-toolkit<br><br>💬 Ask me about React<br><br>📫 How to reach me mtaha.mtal@gmail.com
+🔭 I’m currently working on Bun.js<br><br>🌱 I’m currently learning SwiftUİ,React,Next<br><br>🤝 I’m looking for help with sagemaker-inference-toolkit<br><br>💬 Ask me about React<br><br>📫 How to reach me mtaha.mtal@gmail.com
 
 
 ## 🌐 Socials:
